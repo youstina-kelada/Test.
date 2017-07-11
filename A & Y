@@ -6,7 +6,8 @@ A&Y watches
 
 
 <body>
-<h1> Welcome to A&Y watches store</H1>
+<h1> Welcome to A&Y watches store</h1>
+<h2> This is a h2 block </h2>
 </body>
 
 <style>
